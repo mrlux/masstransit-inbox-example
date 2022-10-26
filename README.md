@@ -1,0 +1,1 @@
+# masstransit-inbox-example
